@@ -35,7 +35,12 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 ## process
 ```bash
 > run.exe
-  >> .\src\r\run.r
+  >> run: .\src\r\run.r
+     >> create: .\src\cmb\hostApp.bat
+     >> create: .\src\cmb\runApp.bat
+  >> run: .\src\cmb\hostApp.bat
+  >> run: .\src\cmb\runApp.bat
+  
 ```
 
 ## about
