@@ -36,10 +36,10 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 ```bash
 > run.exe
   >> run: .\src\r\run.r
-     >> create: .\src\cmb\hostApp.bat
-     >> create: .\src\cmb\runApp.bat
-  >> run: .\src\cmb\hostApp.bat
-  >> run: .\src\cmb\runApp.bat
+     >> create: .\src\cmd\hostApp.bat
+     >> create: .\src\cmd\runApp.bat
+  >> run: .\src\cmd\hostApp.bat
+  >> run: .\src\cmd\runApp.bat
   
 ```
 
