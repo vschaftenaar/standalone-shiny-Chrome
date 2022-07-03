@@ -19,10 +19,10 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 │     ├── runApp.bat
 │  ├── r
 │     ├── run.r
-│     ├── hostApp.r
 │     ├── app
 │        ├── ui.r
 │        ├── server.r
+│        ├── hostApp.r
 ├── env
 │  ├── engine  **
 
@@ -39,7 +39,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
       >> create: .\src\cmd\hostApp.bat
       >> create: .\src\cmd\runApp.bat
    >> run: .\src\cmd\hostApp.bat
-      >> run: .\src\r\hostApp.r
+      >> run: .\src\r\app\hostApp.r
    >> run: .\src\cmd\runApp.bat
   
 ```
