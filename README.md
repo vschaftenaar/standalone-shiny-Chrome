@@ -27,7 +27,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 │   ├── engine  **
 
 
-*  run.bat has already been converted to run.exe. run.bat could be usefull for debugging.
+*  run.bat has already been converted to run.exe. run.bat could be usefull \for debugging.
 ** to be unzipped
 
 ```
