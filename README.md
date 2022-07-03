@@ -34,22 +34,22 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 
 ## file structure
 ```bash
->> .gitignore
->> README.md
->> run.exe
->> run.bat  *
->> src
-   >> cmd
-      >> hostApp.bat
-      >> runApp.bat
-   >> r
-     >> run.r
-     >> hostApp.r
-     >> app
-       >> ui.r
-       >>  server.r
->> env
-   >> engine  **
+> .gitignore
+> README.md
+> run.exe
+> run.bat  *
+> src
+  >> cmd
+    >>> hostApp.bat
+    >>> runApp.bat
+  >> r
+    >> run.r
+    >> hostApp.r
+    >> app
+      >>> ui.r
+      >>>  server.r
+> env
+  >> engine  **
 
 
 *  run.bat has already been converted to run.exe. run.bat could be usefull for debugging.
