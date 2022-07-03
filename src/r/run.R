@@ -17,7 +17,7 @@ write(
   ,append = F)
 
 write(
-  x=paste0('"%~dp0..\\..\\env\\engine\\App\\R-Portable\\bin\\x64\\RScript.exe" "%~dp0..\\r\\hostApp.r" ',ip,' ',port)
+  x=paste0('"%~dp0..\\..\\env\\engine\\App\\R-Portable\\bin\\x64\\RScript.exe" "%~dp0..\\r\\app\\hostApp.r" ',ip,' ',port)
   ,file = './src/cmd/hostApp.bat'
   ,append=T)
 
