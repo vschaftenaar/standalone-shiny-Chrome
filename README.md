@@ -12,7 +12,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 ├── .gitignore
 ├── README.md
 ├── run.exe
-├── run.bat              *
+├── run.bat  *
 ├── src
 │   ├── cmd
 │       ├── hostApp.bat
@@ -24,7 +24,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 │          ├── ui.r
 │          ├── server.r
 ├── env
-│   ├── engine          **
+│   ├── engine  **
 
 
 *  run.bat has already been converted to run.exe. run.bat could be usefull for debugging.
