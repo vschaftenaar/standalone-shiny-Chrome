@@ -34,8 +34,8 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 
 ## process
 ```bash
-run.exe
- >>
+> run.exe
+  >> .\src\r\run.r
 ```
 
 ## about
