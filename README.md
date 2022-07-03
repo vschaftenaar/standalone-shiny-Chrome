@@ -34,11 +34,11 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 
 ## file structure
 ```bash
-* .gitignore
-* README.md
-* run.exe
-* run.bat  *
-* src
+- .gitignore
+- README.md
+- run.exe
+- run.bat  *
+- src
  > cmd
    >> hostApp.bat
    >> runApp.bat
@@ -48,7 +48,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
    >> app
      > > > ui.r
      > > >  server.r
-* env
+- env
  > engine  **
 
 
