@@ -5,3 +5,6 @@
 .Ruserdata
 /env
 standalone-shiny-Chrome.Rproj
+/src/cmd/hostApp.bat
+/src/cmd/runApp.bat
+run.bat
