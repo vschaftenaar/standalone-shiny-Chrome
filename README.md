@@ -32,6 +32,12 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 
 ```
 
+## process
+```bash
+run.exe
+ ──>
+```
+
 ## about
 
 R portable configures R to work with the PortableApps framework, so that R can be ran from a thumb drive or portable hard drive without leaving artifacts on the computer. Version 4.0.5 is included in the repo. If necessary, R-portable can be downloaded following the link:  
