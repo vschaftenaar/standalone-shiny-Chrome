@@ -10,7 +10,7 @@ Unzip the zip-files in ./env/7zip to ./env. There you will find the engine (R-po
 ├── .gitignore
 ├── README.md
 ├── run.exe
-├── runApp.bat           *
+├── run.bat              *
 ├── src
 │   ├── r
 │       ├── app
@@ -19,7 +19,7 @@ Unzip the zip-files in ./env/7zip to ./env. There you will find the engine (R-po
 │   ├── engine          **
 
 
-*  runApp.bat has already been converted to run.exe. runApp.bat could be usefull for debugging.
+*  run.bat has already been converted to run.exe. run.bat could be usefull for debugging.
 ** to be unzipped
 
 ```
