@@ -39,6 +39,7 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
       >> create: .\src\cmd\hostApp.bat
       >> create: .\src\cmd\runApp.bat
    >> run: .\src\cmd\hostApp.bat
+      >> run: .\src\r\hostApp.r
    >> run: .\src\cmd\runApp.bat
   
 ```
