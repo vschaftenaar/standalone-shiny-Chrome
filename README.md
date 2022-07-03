@@ -12,9 +12,15 @@ Unzip the zip-files in ./env/7zip to ./env. There you will find the engine (R-po
 ├── run.exe
 ├── run.bat              *
 ├── src
+│   ├── cmd
+│       ├── hostApp.bat
+│       ├── runApp.bat
 │   ├── r
+│       ├── run.r
+│       ├── hostApp.r
 │       ├── app
-│       ├── run_app.r
+│          ├── ui
+│          ├── server
 ├── env
 │   ├── engine          **
 
