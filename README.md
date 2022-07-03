@@ -4,7 +4,7 @@ by Abulily
 ## quick overview
 Unzip the zip-files in ./env/7zip to ./env. There you will find the engine (R-portable) of the application. For the application to work as a standalone application, Google Chrome has to be installed.
 
-There seems to be a very unstable behavior when running the | ../../chrome.exe --app=http://xxx.x.x.x:xxxx |. Therefor the Shiny app is first hosted without a browser and then the Chrome (application mode) is launched to view the Shiny app.
+There seems to be a very unstable behavior when running the " ../../chrome.exe --app=http://xxx.x.x.x:xxxx ". Therefor the Shiny app is first hosted without a browser and then the Chrome (application mode) is launched to view the Shiny app.
 
 
 ## file structure
