@@ -40,14 +40,14 @@ There seems to be a very unstable behavior when running the " ../../chrome.exe -
 > run.bat  *
 > src
   >> cmd
-    >>> hostApp.bat
-    >>> runApp.bat
+    >> > hostApp.bat
+    >> > runApp.bat
   >> r
-    >> run.r
-    >> hostApp.r
-    >> app
-      >>> ui.r
-      >>>  server.r
+    >> > run.r
+    >> > hostApp.r
+    >> > app
+      >> >> ui.r
+      >> >>  server.r
 > env
   >> engine  **
 
