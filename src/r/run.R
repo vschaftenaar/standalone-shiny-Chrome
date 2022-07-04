@@ -3,7 +3,7 @@ setwd(abulily::get_directory())
 setwd('../../')
 
 
-ip <- '127.0.0.1'
+ip   <- '127.0.0.1'
 port <- sample(6666:10214,1)
 # port=7272
 ip.port <- paste0('http://',ip,':',port)
