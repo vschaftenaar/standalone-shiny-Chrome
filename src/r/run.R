@@ -40,4 +40,12 @@ write(
 
 
 system('./src/cmd/hostApp.bat',wait = F,invisible = T)
+
+# to make sure the app is hosted before trying
+# to open is, let the program sleep for x seconds.
+# probably unnecessary, but in a (slow) VPN environment
+# I saw cases it was opening an empty webpage.
+# Sys.sleep(5)  
+
 system('./src/cmd/runApp.bat',wait = F,invisible = T)
+
